@@ -1,0 +1,13 @@
+=pod
+
+=encoding utf8
+
+=head1 Talks
+
+Some of my technical talk material, this is early days.
+
+
+=head2 Author
+
+&copy; David Farrell 2015
+
